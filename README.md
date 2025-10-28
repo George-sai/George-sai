@@ -1,9 +1,9 @@
 # 👋 Hi, I’m George 
-**AI & Data Scientist | Machine Learning Researcher**  
-I build scalable ML pipelines that drive real time insights and automation across business workflows.
-
 ---
 
+**AI & Data Scientist | Machine Learning Researcher**  
+I build scalable ML pipelines that drive real time insights and automation across business workflows.
+![Metrics](./github-metrics.svg)
 ## Tech Stack
 
 **Programming Languages & Data:**
@@ -34,7 +34,8 @@ I build scalable ML pipelines that drive real time insights and automation acros
 <p align="left">
   <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="Power BI" width="40" height="40"/>
   </p>
-
-
-## Get in Touch  
+  
+  ## Get in Touch  
 - **Email:** [george.e.ugo@gmail.com](mailto:george.e.ugo@gmail.com)
+
+
