@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-0B1F4D?style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://pinterest.com/YOUR_PINTEREST/"><img src="https://img.shields.io/badge/PINTEREST-0B1F4D?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-4A7AB0?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:george.e.ugo@gmail.com"><img src="https://img.shields.io/badge/GMAIL-4A7AB0?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 <h2 align="center"><img src="assets/pokeball.svg" width="24" alt=""> <i>Technologies</i></h2>
@@ -44,7 +44,7 @@
 <img align="left" src="assets/avatar.png" width="190" alt="Avatar">
 
 <p align="center">
-  Hello! My name is <b>YOUR FULL NAME</b>, and I am a Software Engineering student.
+  Hello! My name is <b>George</b>, and I am a Data science student.
   I am passionate about learning new technologies, developing innovative projects,
   and solving complex problems through programming. Currently, I am honing my skills in
   <b>JavaScript, React.js, Java, Spring Boot,</b> and <b>SQL</b>, focusing on building
