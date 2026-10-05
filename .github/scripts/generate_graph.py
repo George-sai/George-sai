@@ -12,7 +12,7 @@ from datetime import datetime, timedelta, timezone
 from xml.sax.saxutils import escape
 
 DAYS = 31
-USER = os.environ.get("GH_USER", "geo-storm-alt")
+USER = os.environ.get("GH_USER", "george-sai")
 TITLE = os.environ.get("GRAPH_TITLE", f"{USER}'s Contribution Graph")
 OUT = os.environ.get("OUT", "ContributionGraph.svg")
 
